@@ -62,3 +62,6 @@ Hacktoberfest Classroom Project 2019
 > Hi, how do you do? Where did you come from, where did you go? Where did you come from, Cotton-Eye Joe?
 ---
 
+### Omkar Arora
+[OmkarArora](https://github.com/OmkarArora)
+> Jornalist to programmer: Why is a code bad? Programmer: No comment.
